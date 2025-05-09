@@ -89,4 +89,8 @@ Feel free to:
 - 🐛 Open issues  
 - 📥 Submit pull requests  
 
+Team :
+Anubhav Chaturvedi
+
+
 Help us make **Proza** better for everyone! 🙌
